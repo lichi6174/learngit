@@ -6,3 +6,6 @@ Git has a mutable index called INDEX.
 Createing a new branch is quick.
 Createing a new branch is hello world.
 Createing a new branch is hello lichi.
+Createing a new branch is 123.
+Createing a new branch is 1234.
+Createing a new branch is 123456789.
